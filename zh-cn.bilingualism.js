@@ -48,6 +48,7 @@ window.SwaggerTranslator.learn({
     "Videos": "视频",
     "Photos": "相册",
     "CnBlogs": "博客园",
+    "Projects":"项目",
     "Self Introdution": "布客虫的自我介绍",
     "Welcome to my website!I'm a nine grade student from China.I'm sprinting for the high school entrance examination in full force.": "很荣幸您能访问我的网站！目前是一名初三学生，正在努力冲刺中考。",
     "Main job: Game development.": "主要: 游戏开发",
